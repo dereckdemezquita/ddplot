@@ -5,13 +5,13 @@ This repo contains the functions of the `ddplot` package, which once installed l
 This package is inspired by "bbplot".
 
 <p align="center">
-    <img src="./chart_examples/countries-inequality-line-1.png" width="495">
-    <img src="./chart_examples/countries-1-fhos-1.png" width="495">
-    <img src="./chart_examples/countries-u5pop-prc-1.png" width="495">
-    <img src="./chart_examples/gdp-per-capita-1.png" width="495">
-    <img src="./chart_examples/gdp-per-capita-2.png" width="495">
-    <img src="./chart_examples/gdp-per-country-1.png" width="495">
-    <img src="./chart_examples/pop-to-internet-users.png" width="495">
+    <img src="./chart_examples/countries-inequality-line-1.png" width="350">
+    <img src="./chart_examples/countries-1-fhos-1.png" width="350">
+    <img src="./chart_examples/countries-u5pop-prc-1.png" width="350">
+    <img src="./chart_examples/gdp-per-capita-1.png" width="350">
+    <img src="./chart_examples/gdp-per-capita-2.png" width="350">
+    <img src="./chart_examples/gdp-per-country-1.png" width="350">
+    <img src="./chart_examples/pop-to-internet-users.png" width="350">
 </p>
 
 ## Installing bbplot
