@@ -14,7 +14,7 @@ This package is inspired by "bbplot".
     <img src="./chart_examples/pop-to-internet-users.png" width="350">
 </p>
 
-## Installing bbplot
+## Installing ddplot
 
 `ddplot` is not on CRAN, so you will have to install it directly from Github using `devtools`. 
 
