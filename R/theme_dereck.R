@@ -35,6 +35,8 @@ theme_dereck <- function (base_size = 11, base_family = "") {
     # axis.line = ggplot2::element_line(color = "#afafaf"),
     axis.ticks = ggplot2::element_line(color = "#aaaaaa"),
 
-    strip.background = element_rect(fill = "white", colour = "#676767")
+    strip.background = element_rect(fill = "white", colour = "#676767"),
+
+    legend.position = "bottom"
   )
 }
