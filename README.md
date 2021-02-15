@@ -1,6 +1,6 @@
 ## ddplot
 
-This repo contains the functions of the `ddplot` package, which once installed locally, provides helpful functions for creating and exporting  graphics made in ggplot in the style used by the Dereck and on [derecksnotes.com](derecksnotes.com).
+This is an R package containing the functions of `ddplot`, which once installed locally, provides helpful functions for creating and exporting  graphics made in ggplot in the style used by the Dereck and on [derecksnotes.com](derecksnotes.com).
 
 This package is inspired by "bbplot".
 
