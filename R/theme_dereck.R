@@ -37,6 +37,7 @@ theme_dereck <- function (base_size = 11, base_family = "") {
 
     strip.background = element_rect(fill = "white", colour = "#676767"),
 
-    legend.position = "bottom"
+    legend.position = "bottom",
+    legend.title = element_text(vjust = 0.85) # adjust title position higher to key when bottom
   )
 }
